@@ -1,22 +1,29 @@
 # spookyctf-2024
 Some writeups for the 2024 SpookyCTF hosted by NICC
 
-## challenges:
-- osint/perfect-nba-fit
-- osint/cryptid-chats
+## osint:
+- perfect-nba-fit
+- cryptid-chats
 
-- steg/devil's-secret-stash
-- steg/set-your-intentions-right
-- steg/whispers-in-morse
-- steg/phenominal-photo
+## steg
+- devil's-secret-stash
+- set-your-intentions-right
+- whispers-in-morse
+- phenominal-photo
 
-- crypto/tracking-the-beast
+## crypto
+- tracking-the-beast
 
-- misc/well-met
-- misc/no-access
+## misc
+- well-met
+- no-access
 
-- bin/the-gates-are-closed
-- bin/B00fer
-- bin/my-assm-hurts
-- bin/what-flag
-- bin/Loab's House of Horrors Vol.I
+## bin
+- the-gates-are-closed
+- B00fer
+- my-assm-hurts
+- what-flag
+- Loab's House of Horrors Vol.I
+
+
+
