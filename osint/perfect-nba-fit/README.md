@@ -8,3 +8,6 @@
 
 > Example: NICC{10_20:30_Interstate-280_Newark}
 ## Solve
+I was interested in the "class A sighting" line, and so I first just searched that and immediately found several pages related to Bigfoot. This would be the perfect fit for a basketball team. 
+
+After some browsing, I found a (database)[https://www.bfro.net/GDB/state_listing.asp?state=nj] which lists each 
