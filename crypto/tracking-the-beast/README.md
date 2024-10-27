@@ -7,6 +7,8 @@
 ## Solve
 I did not understand this challenge, but I recognized the format from last year's `Strange Monuments` challenge. The only differences were that the numbers were changed around and this challenge gave the points passed, but not the final point. `Strange Monuments` gave the final point and asked how many points were passed.
 
+After looking up Green Lantern with 13 rings on his fingers, I found that that was issue #49, so I figured that Bigfoot traveled through 49 hideouts. 
+
 After reading some write-ups for `Strange Monuments` and messing around with their solve scripts, I got a nice one-liner in [SageMath](https://www.sagemath.org/):
 ```
 EllipticCurve(GF(251),[73,42])(26,38)*49
