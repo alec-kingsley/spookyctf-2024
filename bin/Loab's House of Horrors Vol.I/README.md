@@ -17,7 +17,7 @@ LoabsHouseOfHorrors.zip/
 
 ## Solve
 
-There is a command injection vulnerability with this. The program places the flag in a random one of the following files which all exist:
+There is a command injection vulnerability with this. (The code explicitly tries to prevent it but it doesn't work) The program places the flag in a random one of the following files which all exist:
 ```
 /tmp/singularity
 /tmp/abyss
@@ -30,7 +30,7 @@ There is a command injection vulnerability with this. The program places the fla
 /tmp/loab
 ```
 
-I think the intended solution is to first use a command injection to find where the flag is, and then use another to `cat` it out. I was too lazy for this, and
+I think the intended solution was to first use a command injection to find where the flag is, and then use another to `cat` it out. I was too lazy for this, and
 instead just used the injection
 ```sh
 ;cat /tmp/singularity /tmp/abyss /tmp/.loab /home/council /tmp/.boom /home/victim/.consortium /usr/bnc/.yummyarbs /tmp/orphans /tmp/loab
