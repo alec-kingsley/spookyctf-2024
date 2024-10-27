@@ -5,3 +5,5 @@
 ## Attachments
 ### OW_Spot.png
 ![OW_Spot.png](./OW_Spot.png)
+### Cryptid_Chats.pdf
+![Cryptid_Chats.pdf](./Cryptid_Chats.pdf)
