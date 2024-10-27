@@ -1,7 +1,7 @@
 # spookyctf-2024
 Some writeups for the 2024 SpookyCTF hosted by NICC
 
-## osint:
+## osint
 - perfect-nba-fit
 - cryptid-chats
 
