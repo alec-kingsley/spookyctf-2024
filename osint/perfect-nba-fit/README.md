@@ -10,4 +10,7 @@
 ## Solve
 I was interested in the "class A sighting" line, and so I first just searched that and immediately found several pages related to Bigfoot. This would be the perfect fit for a basketball team. 
 
-After some browsing, I found a (database)[https://www.bfro.net/GDB/state_listing.asp?state=nj] which lists each 
+After some browsing, I found a [database](https://www.bfro.net/GDB/) which lists sightings by state. For [New Jersey](https://www.bfro.net/GDB/state_listing.asp?state=nj), the most recent [Class A sighting](https://www.bfro.net/GDB/show_report.asp?id=63235) was in 2019, 5 years ago.
+
+`NICC{20_18:40_Route-563_Chatsworth}`
+
