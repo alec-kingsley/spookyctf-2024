@@ -17,3 +17,21 @@ MOV    EAX, 0x0
 POP    RBP
 RET
 ```
+
+I then noticed that there were several other functions. Each of them loaded some memory on the stack and then returned, and none of them were called anywhere.
+
+Converting this memory to ASCII, I got the following bits:
+
+```
+_ThInk}
+CC
+{
+NI
+_i
+uhH
+_fl@g
+```
+
+Which pieced together to form
+
+`NICC{uhH_fl@g_i_ThInk}`
