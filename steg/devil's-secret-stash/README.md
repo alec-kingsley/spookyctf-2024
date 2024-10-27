@@ -5,6 +5,7 @@
 ## Attachment
 ### [devil.jpg](./devil.jpg)
 
+## Solve
 This challenge took me a long time. I quickly found after running
 ```sh
 binwalk -e devil.jpg
