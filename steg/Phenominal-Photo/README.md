@@ -19,7 +19,7 @@ on the photo yields the file `Ship#1.zip`, which includes `Map.txt` and `gps.zip
 ⍀⟒⋔⟟⋏⎅⟒⍀ ⏁⊑⏃⏁ ⍜⎍⍀ ☌⌿⌇ ⟟⌇ ⏃ ⌰⟟⏁⏁⌰⟒ ⎎⎍⋏☍⊬, ⟟⏁ ⍜⋏⌰⊬ ⏁⏃☍⟒⌇ ⏁⊑⟒ ⎎⟟⍀⌇⏁ ⌰⟒⏁⏁⟒⍀ ⍜⎎ ⟒⏃☊⊑ ⎅⟟⍀⟒☊⏁⟟⍜⋏ ⍙⟒ ⍙⏃⋏⏁ ⏁⍜ ☌⍜ (⌇⏁⎍⌿⟟⎅ ⋔⟒⋔⍜⍀⊬ ⋔⏃⋏⏃☌⟒⋔⟒⋏⏁)
 ```
 
-The description mentioned an object going left, right, up, and down, and the first line contains words which align perfectly with these words. This implied to me that it was likely a substitution cipher.
+The description mentioned an object going left, right, up, and down, and the first line contains words which align perfectly with these words. This implied to me that it was likely a substitution cipher. Additionally, 2023's `I Don't Speak Zorglax` challenge had the same format.
 I guessed that the first word was MAP based on the file name, and here's what I decoded:
 
 ```
